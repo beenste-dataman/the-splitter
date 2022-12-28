@@ -101,6 +101,6 @@ while counter < num_splits2:
 
   counter += 1
 print('-'*50)
-print('Done...stay tuned for further processing tools!!! \n -Been')
+print('Done...stay tuned for further processing tools!!! \n -Ben')
 print('-'*50)
 print('-'*50)
